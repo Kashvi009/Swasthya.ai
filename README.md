@@ -1,5 +1,4 @@
 # Swasthya.ai
-# SwaasthyaAI
 
 **Next-Gen Care For A Healthier Tomorrow**  
 Redefining Health with AI – a project by **Team THE UNSTOPPABLES**
